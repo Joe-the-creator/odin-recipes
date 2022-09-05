@@ -1,2 +1,2 @@
 # odin-recipes
-This is a project to demostrate my new skills with git, github and html.
+This is a project to show my new skills using git, github and html.
